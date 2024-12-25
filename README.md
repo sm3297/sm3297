@@ -23,9 +23,11 @@
   * [triplebyte](triplebyte.com)의 발표를 인용해서 에디터 부분에서 1등을 하고 있다는 것이다.
   ### 4. 마이크로 소프트가 직접 배포하는 확장성
   * 모든 IDE들이 확장 프로그램을 지원한다.
-  ![IDE](https://t1.daumcdn.net/cfile/tistory/99B241345DDCB7A536)
+
+    <img src = "https://t1.daumcdn.net/cfile/tistory/99B241345DDCB7A536" width="300" hieght = "400" />
+    
   ### [스택 오버플로우 설문 조사]에는 Most Poplar Development Environments 설문 조사 : 1위 차지함.
-  <img src="[https://t1.daumcdn.net/cfile/tistory/998E264A5ED33F6842]" width="50" height="80"/>
+  <img src="https://t1.daumcdn.net/cfile/tistory/998E264A5ED33F6842" width="400" height="200"/>
 
   (https://insights.stackoverflow.com/survey/2019)
   ### 출처
