@@ -4,7 +4,7 @@
   #### sophomore
 
 ## Programming Languages learned so far:
-### C, Python
+  #### C, Python
 
 ## 가장 유용하게 사용하고 있는 Development Environments and Tools
 
