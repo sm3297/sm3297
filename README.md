@@ -1,11 +1,14 @@
-## Major : computer
-## Year : sophomore
+## Major (전공)
+  #### computer
+## Year (학년)
+  #### sophomore
 
-## Programming Languages learned so far: C, Python
+## Programming Languages learned so far:
+### C, Python
 
 ## 가장 유용하게 사용하고 있는 Development Environments and Tools
 
-###  Visual Studio Code란?
+  ###  Visual Studio Code란?
 ![vscodelog](https://t1.daumcdn.net/cfile/tistory/9985E6475DDCB7A40E)
 * Microsoft에서 오픈 소스로 개발하고 있는 소스 코드 에디터이다.
 * GitHub, Electron 기반으로 만들어져 macOS, Linux, Windows등 메이저 운영체제 모두 지원하고 있다.
@@ -22,7 +25,8 @@
   * 모든 IDE들이 확장 프로그램을 지원한다.
   ![IDE](https://t1.daumcdn.net/cfile/tistory/99B241345DDCB7A536)
   ### [스택 오버플로우 설문 조사]에는 Most Poplar Development Environments 설문 조사 : 1위 차지함.
-  ![VSCode](https://t1.daumcdn.net/cfile/tistory/998E264A5ED33F6842)
+  <img src="[https://t1.daumcdn.net/cfile/tistory/998E264A5ED33F6842]" width="50" height="80"/>
+
   (https://insights.stackoverflow.com/survey/2019)
   ### 출처
   https://gocoder.tistory.com/1588
