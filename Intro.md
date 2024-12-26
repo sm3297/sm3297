@@ -34,3 +34,5 @@
   https://gocoder.tistory.com/1588
 
   ![Seongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=adakim3297&show_icons=true&theme=transparent)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adakim3297&layout=compact)
