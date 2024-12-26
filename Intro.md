@@ -33,4 +33,4 @@
   ### 출처
   https://gocoder.tistory.com/1588
 
-  ![adakim's GitHub stats](https://github-readme-stats.vercel.app/api?username=adakim3297)
+  ![Seongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=adakim3297&show_icons=true&theme=transparent)
