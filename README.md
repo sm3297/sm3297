@@ -9,9 +9,9 @@
   ###  Visual Studio Code
 ![vscodelog](https://t1.daumcdn.net/cfile/tistory/9985E6475DDCB7A40E)
 
-  ![Seongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=adakim3297&show_icons=true&theme=transparent)
+  ![Seongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sm3297&show_icons=true&theme=transparent)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adakim3297&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm3297&layout=compact)
 
 
 <!--
