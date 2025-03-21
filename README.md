@@ -13,6 +13,8 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm3297&layout=compact)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm3297)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **adakim3297/adakim3297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
