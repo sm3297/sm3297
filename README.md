@@ -10,7 +10,7 @@
 ![vscodelog](https://t1.daumcdn.net/cfile/tistory/9985E6475DDCB7A40E)
 
   ![Seongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongmin&show_icons=true&theme=transparent)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongmin)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongmin)](https://github.com/Seongmin/github-readme-stats)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seongmin&layout=compact)
 
