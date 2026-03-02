@@ -1,23 +1,4 @@
-## Hi there 👋
-### Major (전공) : **computer**
-### Year (학년) : **junior**
 
-## Programming Languages learned so far:
-  #### C, Python
-
-## 가장 유용하게 사용하고 있는 Development Environments and Tools
-  ###  Visual Studio Code
-![vscodelog](https://t1.daumcdn.net/cfile/tistory/9985E6475DDCB7A40E)
-
-  ![Seongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongmin&show_icons=true&theme=transparent)
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seongmin)](https://github.com/Seongmin/github-readme-stats)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seongmin&layout=compact)
-
-<!--
-**adakim3297/adakim3297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 <div align="center">
 
